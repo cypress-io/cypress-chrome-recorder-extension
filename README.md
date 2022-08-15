@@ -1,1 +1,1 @@
-# cypress-chrome-recorder-extension
+# cypress-recorder-extension
