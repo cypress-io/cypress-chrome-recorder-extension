@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "Cypress Chrome Recorder",
   "description": "Cypress extension for DevTools that allows you to export tests directly from the Recorder panel.",
   "permissions": [],
