@@ -15,5 +15,5 @@ export class RecorderPlugin {
 chrome.devtools.recorder.registerRecorderExtensionPlugin(
   new RecorderPlugin(),
   /* name=*/ 'Cypress Test',
-  /* mediaType=*/ 'application/javascript'
+  /* mediaType=*/ 'text/javascript'
 );
